@@ -1,0 +1,20 @@
+* {
+	bordr-size: bordr-box;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+div{
+	margin: 0;
+	padding: 0;
+	border: 1px solid black;
+	width: 100%;
+	font-family: Helvetica;
+
+}
+p {
+
+}
